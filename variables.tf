@@ -6,6 +6,5 @@ EOT
   type = map(object({
   }))
   default = { all = {} }
-
 }
 
